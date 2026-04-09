@@ -20,7 +20,7 @@
 	└── javascript/
 	    └── prompt_all_in_one.js  # ComfyUI 前端 UI：侧边栏与交互逻辑
 页面长这样：
-![Uploading 屏幕截图 2026-04-09 225511.png…]()
+<img width="1148" height="859" alt="项目图片" src="https://github.com/user-attachments/assets/2c746063-067c-470c-820e-bd064a98a933" />
 
       安装方法
 方法一：通过 ComfyUI Manager 安装 (推荐)
