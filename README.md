@@ -15,7 +15,6 @@ markdown
 
 ## 📦 插件文件结构
 
-```text
 comfyui-prompt-all-in-one/
 ├── __init__.py               # ComfyUI 后端入口，注册节点与 API
 ├── nodes.py                  # ComfyUI 节点定义
