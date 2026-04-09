@@ -29,11 +29,11 @@
 方法二：手动安装
 进入 ComfyUI 的自定义节点目录：
 cd ComfyUI/custom_nodes/
-克隆本仓库：
+	克隆本仓库：
 	git clone https://github.com/你的用户名/ComfyUI-Prompt-All-In-One.git
 
 安装 Python 依赖：
-在便携版 ComfyUI根目录：
+	在便携版 ComfyUI根目录：
 	.\python_embeded\python.exe -m pip install -r .\ComfyUI-Prompt-All-In-One\requirements.txt
 
 独立环境 ComfyUI:
