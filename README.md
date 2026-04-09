@@ -17,15 +17,15 @@ markdown
 ## 📦 插件文件结构
 
 
-##comfyui-prompt-all-in-one/
-├── __init__.py               # ComfyUI 后端入口，注册节点与 API
-├── nodes.py                  # ComfyUI 节点定义
-├── api.py                    # 后端 API：在线翻译、词库与字典读取
-├── tags.json                 # 提示词分类词库 (支持界面动态写入)
-├── tags.csv                  # 本地英中翻译字典 (用于悬停提示)
-├── requirements.txt          # Python 依赖
-└── javascript/
-    └── prompt_all_in_one.js  # ComfyUI 前端 UI：侧边栏与交互逻辑
+comfyui-prompt-all-in-one/  
+├── __init__.py               # ComfyUI 后端入口，注册节点与 API  
+├── nodes.py                  # ComfyUI 节点定义  
+├── api.py                    # 后端 API：在线翻译、词库与字典读取  
+├── tags.json                 # 提示词分类词库 (支持界面动态写入)  
+├── tags.csv                  # 本地英中翻译字典 (用于悬停提示)  
+├── requirements.txt          # Python 依赖  
+└── javascript/  
+    └── prompt_all_in_one.js  # ComfyUI 前端 UI：侧边栏与交互逻辑  
 
 ##页面长这样：
 
