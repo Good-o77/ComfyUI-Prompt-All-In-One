@@ -1,0 +1,40 @@
+{
+    "画质": [
+        "masterpiece",
+        "best quality",
+        "highres",
+        "ultra-detailed",
+        "8k resolution",
+        "good"
+    ],
+    "风格": [
+        "cyberpunk",
+        "watercolor",
+        "anime style",
+        "photorealistic",
+        "oil painting"
+    ],
+    "人物": [
+        "1girl",
+        "1boy",
+        "solo",
+        "multiple girls",
+        "couple"
+    ],
+    "动作": [
+        "sitting",
+        "standing",
+        "running",
+        "looking at viewer",
+        "jumping"
+    ],
+    "背景": [
+        "outdoors",
+        "indoors",
+        "cityscape",
+        "forest",
+        "night sky",
+        "beach",
+        "dood"
+    ]
+}
