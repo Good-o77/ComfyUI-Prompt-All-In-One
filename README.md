@@ -79,15 +79,16 @@ comfyui-prompt-all-in-one/
 
 Excel/WPS 编辑方式：
 
-A列 (英文)	B列 (中文)
-english	chinese
-masterpiece	杰作
-best quality	最佳品质
+A列 (英文)	B列 (中文)  
+english	chinese  
+masterpiece	杰作  
+best quality 最佳品质  
+
 记事本打开样式：
 
-english,chinese
-masterpiece,杰作
-best quality,最佳品质
+english,chinese  
+masterpiece,杰作  
+best quality,最佳品质  
 注意：请勿将中英文写在同一列内用逗号隔开，必须分为两列。
 
 ## 🙏 致谢
