@@ -19,19 +19,18 @@
 	├── requirements.txt          # Python 依赖
 	└── javascript/
 	    └── prompt_all_in_one.js  # ComfyUI 前端 UI：侧边栏与交互逻辑
-页面长这样：
+	页面长这样：
 <img width="1148" height="859" alt="项目图片" src="https://github.com/user-attachments/assets/2c746063-067c-470c-820e-bd064a98a933" />
 
-安装方法
+	安装方法
 方法一：通过 ComfyUI Manager 安装 (推荐)
 如果你安装了 ComfyUI Manager，可以直接在 Manager 中搜索 ComfyUI-Prompt-All-In-One 进行安装。
 
-方法二：手动安装
+	方法二：手动安装
 进入 ComfyUI 的自定义节点目录：
 cd ComfyUI/custom_nodes/
 	克隆本仓库：
-	git clone https://github.com/你的用户名/ComfyUI-Prompt-All-In-One.git
-
+	git clone https://github.com/Good-o77/ComfyUI-Prompt-All-In-One.git
 安装 Python 依赖：
 	在便携版 ComfyUI根目录：
 	.\python_embeded\python.exe -m pip install -r .\ComfyUI-Prompt-All-In-One\requirements.txt
