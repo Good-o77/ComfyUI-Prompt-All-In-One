@@ -22,6 +22,7 @@ comfyui-prompt-all-in-one/
 ├── requirements.txt          # Python 依赖
 └── javascript/
     └── prompt_all_in_one.js  # ComfyUI 前端 UI：侧边栏与交互逻辑
+```
 
 ## 📸 页面展示
 
